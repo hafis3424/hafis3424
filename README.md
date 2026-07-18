@@ -16,20 +16,9 @@ I enjoy building practical software, learning new technologies, and solving real
 
 ## 💻 Tech Stack
 
-### Languages
-- Python • Java • JavaScript • SQL • C
-
-### Frontend
-- HTML • CSS
-
-### Backend
-- Node.js • Express.js • REST APIs
-
-### Databases
-- MySQL • MongoDB • Firebase
-
-### Tools
-- Git • GitHub • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,nodejs,express,mysql,mongodb,firebase,git,github,vscode" />
+</p>
 
 ---
 
