@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Mohammed Hafis 👋
 
-<!--
-**hafis3424/hafis3424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer from Kerala, India.
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science and Engineering (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical software, learning new technologies, and solving real-world problems. I am currently undergoing Python Full Stack internship training at QSpiders and actively seeking Software Engineer, Backend Developer, and Full Stack Developer opportunities.
+
+---
+
+## 🚀 Currently Learning
+
+- Python Full Stack Development
+- Backend Development
+- Manual Testing
+- Data Structures & Algorithms
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+- Python
+- Java
+- JavaScript
+- SQL
+- C
+
+### Frontend
+- HTML
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+- MySQL
+- MongoDB
+- Firebase
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 NeuroLex
+A collaborative web application designed to support dyslexia detection through an accessible and user-friendly interface.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS, JavaScript
+
+---
+
+### 🎥 ProTranscribe
+A lightweight web application that generates YouTube video transcripts with a clean and simple interface.
+
+**Tech Stack:** Flask, Python, HTML, CSS, JavaScript
+
+---
+
+## 🎯 Career Objective
+
+I am passionate about software engineering and continuously improving my development skills by building projects, learning modern technologies, and solving programming challenges.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/mohammed-hafis-k/
+- GitHub: https://github.com/hafis3424
